@@ -5,7 +5,7 @@
 // function Navbar ()  {
 //     return (
 //         <header className="header">
-//             <a href="/home" className="logo"><Link to="/">
+//             <a href="/home" className="logo"><Link to="/home">
 //                 <h1>Learn <span>WebDev</span></h1></Link>
 //             </a>
 //             <div className='menu'>
