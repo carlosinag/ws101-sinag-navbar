@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ws101-sinag-navbar/static/css/main.4c87a1d2.css",
-    "main.js": "/ws101-sinag-navbar/static/js/main.b179f7d7.js",
+    "main.js": "/ws101-sinag-navbar/static/js/main.b6ce576e.js",
     "index.html": "/ws101-sinag-navbar/index.html",
     "main.4c87a1d2.css.map": "/ws101-sinag-navbar/static/css/main.4c87a1d2.css.map",
-    "main.b179f7d7.js.map": "/ws101-sinag-navbar/static/js/main.b179f7d7.js.map"
+    "main.b6ce576e.js.map": "/ws101-sinag-navbar/static/js/main.b6ce576e.js.map"
   },
   "entrypoints": [
     "static/css/main.4c87a1d2.css",
-    "static/js/main.b179f7d7.js"
+    "static/js/main.b6ce576e.js"
   ]
 }
